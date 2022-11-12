@@ -16,7 +16,7 @@ module.exports.shopSortType = 0
 
 module.exports.bannerPrice = 500
 
-module.exports.memberRole = "1037652947288461342"
+module.exports.memberRole = "1040876392507777115"
 
 module.exports.welcomeChannel = "1036198876169912363"
 
