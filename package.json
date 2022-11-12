@@ -18,6 +18,9 @@
     "random": "^2.2.0",
     "util": "^0.12.4"
   },
+  "engines": {
+    "node": "16.13.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
